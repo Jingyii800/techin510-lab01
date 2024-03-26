@@ -23,7 +23,7 @@ My personal website for TECHIN 510 Lab1.
   ```
   if cannot work, please try:
   ```
-  python -m streanlit run app.py
+  python -m streamlit run app.py
   ```
 ### Option2:
 Visit my personal webpage from this link:
