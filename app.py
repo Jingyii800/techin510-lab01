@@ -9,7 +9,7 @@ st.set_page_config(
 
 image_path = 'assets/profilephoto.jpg'
 image = Image.open(image_path)
-image = image.resize((150, 150), Image.LANCZOS)
+image = image.resize((200, 200), Image.LANCZOS)
 
 # Profile picture
 # Create a circular mask to apply to the image
