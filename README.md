@@ -31,3 +31,7 @@ https://jingyii.streamlit.app/
 
 # Personal Webpage Overview
 ![Alt text](assets/web_preview.png)
+
+## What I Learned
+- I learned about a very user-friendly web development tool, streamlit.
+- How to us Python to build front-end and write front-end code.
