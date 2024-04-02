@@ -14,7 +14,7 @@ My personal website for TECHIN 510 Lab1.
 - Open the ternimal and run the following commands to setup virtual env for streamlit and install the packages:
   ```
   python -m venv venv
-  source vene/bin/activate
+  source venv/bin/activate
   pip install -r requirements.txt
   ```
 - Then run this command to start the App:
