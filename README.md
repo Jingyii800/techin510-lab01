@@ -34,4 +34,8 @@ https://jingyii.streamlit.app/
 
 ## What I Learned
 - I learned about a very user-friendly web development tool, streamlit.
-- How to us Python to build front-end and write front-end code.
+- How to use Python to build front-end and write front-end code.
+
+## Questions/Future improvements
+- I would like to add links to my profile, such as my GitHub profile/portfolio
+- Add interactive animation to improve the user experience
